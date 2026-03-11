@@ -16,8 +16,8 @@ It also includes a precision growth mechanic for arborists — saplings, bamboo,
 ## Features
 
 - Applies bone meal effect to a 50x50 area around the player on right-click
-- Instantly grows saplings, bamboo, and sugar cane to their final stage
-- Simple crafting recipe — no complex setup required
+- Instantly grows saplings, crops, bamboo, and sugar cane to their final stage
+- Simple crafting recipe, no complex setup required
 
 ---
 
